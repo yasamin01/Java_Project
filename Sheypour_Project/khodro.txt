@@ -1,0 +1,6 @@
+peugeot206,1395,74000,sefid,benzin,70000000
+pride111,1398,7000,aabi,benzin,48000000
+kiasportage,1394,90000,meshki,benzin,90000000
+nissanpickup,1388,110000,noghreii,benzin,80000000
+hyundaisantafe,1396,40000,khakestari,benzin,100000000
+hyundaiazera,1393,100000,sefid,benzin,130000000

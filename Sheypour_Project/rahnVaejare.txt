@@ -1,0 +1,6 @@
+5,138,3,220000000,6500000,Tehran,Tehran,Seyedkhandan
+6,102,2,20000000,1200000,Mazandaran,Sari,Poletajan
+7,80,2,10000000,1500000,Mazandaran,Sari,ghareje
+12,130,2,200000000,9000000,Tehran,Tehran,dorus
+8,130,2,200000000,7000000,Tehran,Tehran,Pasdaran
+10,90,2,170000000,2000000,Tehran,Tehran,Piroozi

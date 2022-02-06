@@ -1,0 +1,6 @@
+977,3800000000,Mazandaran,Noor
+500,1250000000,Tehran,Shahriar
+500000,350000000,Mazandaran,Tonekabon
+3100,470000000,Mazandaran,Sari,Shahband
+250,200000000,Mazandaran,Mahmudabad
+1400,420000000,Gilan,Lahijan

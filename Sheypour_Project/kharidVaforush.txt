@@ -1,0 +1,6 @@
+5,485,3,5350000000,Mazandaran,Royan,Farhang2,Shaghayegh6
+10,115,2,550000000,Mazandaran,Sari,Moalem
+13,86,2,900000000,Khorasane razavi,Mashhad,Emamkhomeini
+4,65,1,150000000,Alborz,Kamalshahr,Kuche fatemieh
+7,155,1,550000000,Lorestan,Kuhdasht,Khiaban rezaii,Kuche roz
+11,110,2,850000000,Mazandaran,Noshahr,Helestan,Shariat abad
